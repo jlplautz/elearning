@@ -165,3 +165,6 @@ docs/secretkey.md
 
 
 .vscode/
+
+static/
+data/
